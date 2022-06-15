@@ -1,0 +1,16 @@
+{
+  "name": "manualbot",
+  "version": "1.0.0",
+  "description": "Create your own bot command directly in telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yonle <yonle@duck.com>",
+  "license": "EPL",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "grammy": "^1.8.3"
+  }
+}
