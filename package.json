@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Yonle <yonle@duck.com>",
-  "license": "EPL",
+  "license": "EPL-2.0",
   "dependencies": {
     "dotenv": "^16.0.1",
     "grammy": "^1.8.3"
